@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Damián Nieva
-- 👀 I’m interested in technologies web
-- 🌱 I’m currently learning PHP, laravel, javascript, vuejs and more
+- 👀 I’m interested in web technologies.
+- 🌱 I’m currently learning PHP, laravel, javascript, vuejs and more.
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
